@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "David Martinez",
+      "email": "david.martinez@example.com"
+    },
+    {
+      "id": "2",
+      "name": "Sarah Anderson",
+      "email": "sarah.anderson@example.com"
+    },
+    {
+      "id": "3",
+      "name": "James Thomas",
+      "email": "james.thomas@example.com"
+    },
+    {
+      "id": "4",
+      "name": "Essalhi Mohammed Amine",
+      "email": "jfeer55@gmail.com"
+    }
+  ]
+}
